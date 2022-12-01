@@ -2,9 +2,9 @@
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "unshare" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "unshare" ]
 
 jobs:
   build:
